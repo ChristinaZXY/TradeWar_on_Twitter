@@ -6,9 +6,9 @@ Years of trade tensions between the world’s two biggest economies have taken a
 
 In retrospect, one may be surprised to find out that, sometimes people are able to predict the future correctly. It is based on their backgrounds, experiences, concerns, and the information that they happen to have collected correctly regarding the problem. Just like one tree in a trained random forest model that happens to utilize the correct subset of data available and make the correct decision, I am interested in finding out whether there are such tweets that we can learn from before the future arrives.
 
-Project is still under development. 
+Project is under development. 
 
-XiaoyuZhang_TradeWar_twitterAnalysis.ipynb is the main file to execute. 
+XiaoyuZhang_TradeWar_twitterAnalysis.ipynb is the main file for results and analyses. 
 
 *.csv files contain processed tweets to be analyzed by XiaoyuZhang_TradeWar_twitterAnalysis.ipynb 
 

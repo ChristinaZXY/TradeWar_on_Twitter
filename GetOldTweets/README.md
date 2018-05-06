@@ -1,5 +1,5 @@
 The package is a modified version of the Repo https://github.com/Jefferson-Henrique/GetOldTweets-python.
-I changed the code to work specifically for this proposed project. 
+I changed the code to work specifically for this proposed project. This modified package assumes using Python 3.x. 
 
 Run Main_retrieveTweetsByDuration.py and Main_retrieveTweetsByUsername.py to collect your targetted tweets. Remember to specify your local output directory in the code before running. 
 
@@ -13,8 +13,6 @@ Twitter Official API has the bother limitation of time constraints, you can't ge
 I was searching other tools to do this job but I didn't found it, so after analyze how Twitter Search through browser works I understand its flow. Basically when you enter on Twitter page a scroll loader starts, if you scroll down you start to get more and more tweets, all through calls to a JSON provider. After mimic we get the best advantage of Twitter Search on browsers, it can search the deepest oldest tweets.
 
 ## Prerequisites
-This package assumes using Python 2.x. The Python3 "got3" folder is maintained as experimental and is not officially supported.
-
 Expected package dependencies are listed in the "requirements.txt" file for PIP, you need to run the following command to get dependencies:
 ```
 pip install -r requirements.txt

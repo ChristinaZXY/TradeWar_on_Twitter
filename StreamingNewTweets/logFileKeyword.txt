@@ -1,0 +1,37 @@
+04/23/2018 11:16:43 PM WARNING Connecting
+04/23/2018 11:17:21 PM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_23_23_17_21.txt.gz
+04/23/2018 11:21:30 PM WARNING Connecting
+04/23/2018 11:22:51 PM ERROR Exception: 'str' object has no attribute 'read'
+04/23/2018 11:22:51 PM INFO Exiting.
+04/23/2018 11:25:23 PM WARNING Connecting
+04/23/2018 11:25:37 PM ERROR Exception: 'str' object has no attribute 'read'
+04/23/2018 11:25:37 PM INFO Exiting.
+04/23/2018 11:27:38 PM WARNING Connecting
+04/23/2018 11:28:57 PM ERROR Exception: 'str' object has no attribute 'read'
+04/23/2018 11:28:57 PM INFO Exiting.
+04/23/2018 11:29:17 PM WARNING Connecting
+04/23/2018 11:29:30 PM ERROR Exception: 'str' object has no attribute 'read'
+04/23/2018 11:29:30 PM INFO Exiting.
+04/23/2018 11:29:36 PM WARNING Connecting
+04/23/2018 11:30:52 PM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_23_23_30_52.txt.gz
+04/23/2018 11:31:27 PM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_23_23_31_27.txt.gz
+04/23/2018 11:32:19 PM WARNING Connecting
+04/23/2018 11:32:41 PM ERROR Exception: __init__() got an unexpected keyword argument 'indent'
+04/23/2018 11:32:41 PM INFO Exiting.
+04/23/2018 11:33:39 PM WARNING Connecting
+04/23/2018 11:33:41 PM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_23_23_33_41.txt.gz
+04/23/2018 11:50:42 PM WARNING Connecting
+04/23/2018 11:51:28 PM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_23_23_51_28.txt.gz
+04/24/2018 12:02:03 AM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_24_00_02_03.txt.gz
+04/24/2018 06:02:03 AM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_24_06_02_03.txt.gz
+04/24/2018 12:02:13 PM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_24_12_02_13.txt.gz
+04/24/2018 06:03:29 PM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_24_18_03_29.txt.gz
+04/25/2018 12:00:19 AM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_25_00_00_19.txt.gz
+04/25/2018 06:00:19 AM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_25_06_00_19.txt.gz
+04/25/2018 12:00:24 PM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_25_12_00_24.txt.gz
+04/25/2018 06:00:47 PM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_25_18_00_47.txt.gz
+04/26/2018 12:00:05 AM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_26_00_00_05.txt.gz
+04/26/2018 06:00:16 AM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_26_06_00_16.txt.gz
+04/26/2018 12:00:28 PM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_26_12_00_28.txt.gz
+04/26/2018 06:00:59 PM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_26_18_00_58.txt.gz
+04/27/2018 12:00:30 AM INFO Starting new file: /Users/Sherry/PycharmProjects/TradeWar/twitter_stream_downloader/2018/04/2018_04_27_00_00_30.txt.gz

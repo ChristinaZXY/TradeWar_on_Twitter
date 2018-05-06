@@ -1,5 +1,8 @@
 The package is a modified version of the Repo https://github.com/Jefferson-Henrique/GetOldTweets-python.
-I changed the code to work specifically for this proposed project. Run Main_retrieveTweetsByDuration.py and Main_retrieveTweetsByUsername.py to collect your targetted tweets. Remember to specify your local output directory in the code before running. 
+I changed the code to work specifically for this proposed project. 
+
+Run Main_retrieveTweetsByDuration.py and Main_retrieveTweetsByUsername.py to collect your targetted tweets. Remember to specify your local output directory in the code before running. 
+
 Below is the ReadMe file from the original Repo. 
 
 # Get Old Tweets Programatically

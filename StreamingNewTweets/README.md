@@ -1,3 +1,9 @@
+The package is a modified version of the Repo https://github.com/mdredze/twitter_stream_downloader. I changed the code to work specifically for this proposed project. This modified package assumes using Python 3.
+
+Run Main_streamingTweetsByKeyword.py to collect your forthcoming tweets containing the keyword "trade war". Remember to specify your local output directory in the code before running.
+
+Below is the ReadMe file from the original Repo.
+
 twitter_stream_downloader
 =========================
 

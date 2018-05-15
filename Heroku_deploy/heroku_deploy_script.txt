@@ -1,0 +1,39 @@
+mkdir dash_app_example
+cd dash_app_example
+
+git init       
+virtualenv venv #(I used anaconda to create venv, to fulfill pandas dependencies)
+source activate venv
+
+pip install dash
+pip install dash-renderer
+pip install dash-core-components
+pip install dash-html-components
+pip install plotly
+pip install gunicorn
+
+
+create .gitignore file:
+venv
+*.pyc
+.DS_Store
+.env
+
+create Procfile:
+web: gunicorn app_name:server
+
+remove unnecessary requirement packages after:
+pip freeze > requirements.txt
+
+
+heroku create my-dash-app:
+$ git add . # add all files to git
+$ git commit -m 'message'
+$ git push heroku master # deploy code to heroku
+$ heroku ps:scale web=1  # run 
+
+subsequent:
+$ git status # view the changes
+$ git add .  # add all the changes
+$ git commit -m 'a description of the changes'
+$ git push heroku master

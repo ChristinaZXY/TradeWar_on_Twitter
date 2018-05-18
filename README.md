@@ -8,7 +8,9 @@ In retrospect, one may be surprised to find out that, sometimes people are able 
 
 Project is under development. 
 
-XiaoyuZhang_TradeWar_twitterAnalysis.ipynb is the main file for results and analyses. 
+Update 2018/05/01
+
+View XiaoyuZhang_TradeWar_twitterAnalysis.ipynb for results and analyses. 
 
 *.csv files contain processed tweets to be analyzed by XiaoyuZhang_TradeWar_twitterAnalysis.ipynb 
 
@@ -16,7 +18,10 @@ XiaoyuZhang_TradeWar_twitterAnalysis.ipynb is the main file for results and anal
 
 
 Update 2018/05/17
+
 Included the codes for retrieving historical tweets and collecting streaming tweets in respective folders. 
+
 Included the codes for deploying the results dashboard onto Heroku. 
-Please visit https://tradewar-on-twitter.herokuapp.com for the most updated version. 
+
+Please visit https://tradewar-on-twitter.herokuapp.com for the most updated results. 
 

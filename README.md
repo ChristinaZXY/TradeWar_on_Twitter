@@ -13,3 +13,10 @@ XiaoyuZhang_TradeWar_twitterAnalysis.ipynb is the main file for results and anal
 *.csv files contain processed tweets to be analyzed by XiaoyuZhang_TradeWar_twitterAnalysis.ipynb 
 
 ./figures/ contains the saved figures for this project. 
+
+
+Update 2018/05/17
+Included the codes for retrieving historical tweets and collecting streaming tweets in respective folders. 
+Included the codes for deploying the results dashboard onto Heroku. 
+Please visit https://tradewar-on-twitter.herokuapp.com for the most updated version. 
+
